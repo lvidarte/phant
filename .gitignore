@@ -7,3 +7,5 @@ npm-debug.log
 /phant_streams/
 .DS_Store
 .vagrant
+./config.js
+./users.js
